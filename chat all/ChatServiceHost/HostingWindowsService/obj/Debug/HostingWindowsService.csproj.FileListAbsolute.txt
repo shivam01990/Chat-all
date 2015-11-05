@@ -1,0 +1,10 @@
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\bin\Debug\HostingWindowsService.exe.config
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\bin\Debug\HostingWindowsService.exe
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\bin\Debug\HostingWindowsService.pdb
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\bin\Debug\NetTcpServiceToHostinWindowsService.dll
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\bin\Debug\NetTcpServiceToHostinWindowsService.pdb
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\obj\Debug\HostingWindowsService.csprojResolveAssemblyReference.cache
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\obj\Debug\HostingWindowsService.ProjectInstaller.resources
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\obj\Debug\HostingWindowsService.csproj.GenerateResource.Cache
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\obj\Debug\HostingWindowsService.exe
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\HostingWindowsService\obj\Debug\HostingWindowsService.pdb

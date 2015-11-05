@@ -1,0 +1,89 @@
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\App.g.cs
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ChatServiceHost_MarkupCompile.cache
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ChatServiceHost.g.resources
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ChatServiceHost.Properties.Resources.resources
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\ChatServiceHost.exe
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\ChatServiceHost.pdb
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\ServiceAssembly.dll
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\ServiceAssembly.pdb
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ChatServiceHost.pdb
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\log4net.dll
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\log4net.pdb
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\bin\Debug\log4net.xml
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.baml
+C:\ADL\dotNETProjects\DynamicQuestionnaires\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.g.cs
+C:\ADL\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHost.pdb
+C:\ADL\ChatServiceHost\bin\Debug\ChatServiceHost.exe
+C:\ADL\ChatServiceHost\bin\Debug\ChatServiceHost.pdb
+C:\ADL\ChatServiceHost\bin\Debug\log4net.pdb
+C:\ADL\ChatServiceHost\bin\Debug\log4net.xml
+C:\ADL\ChatServiceHost\bin\Debug\ServiceAssembly.pdb
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.baml
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.g.cs
+C:\ADL\ChatServiceHost\obj\x86\Debug\App.g.cs
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHost_MarkupCompile.cache
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHost.g.resources
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHost.Properties.Resources.resources
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csprojResolveAssemblyReference.cache
+C:\ADL\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csproj.GenerateResource.Cache
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.pdb
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe.manifest
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.application
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.pdb
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.baml
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.g.cs
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\App.g.cs
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost_MarkupCompile.cache
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.g.resources
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.Properties.Resources.resources
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csproj.GenerateResource.Cache
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe.manifest
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.application
+D:\Odesk\paul\Project Chat\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csprojResolveAssemblyReference.cache
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.pdb
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe.manifest
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.application
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.pdb
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.baml
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.g.cs
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\App.g.cs
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost_MarkupCompile.cache
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.g.resources
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.Properties.Resources.resources
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csproj.GenerateResource.Cache
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe.manifest
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.application
+D:\Development Area\chat all 16-april\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csprojResolveAssemblyReference.cache
+D:\Development Area\chat all\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+D:\Development Area\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe
+D:\Development Area\chat all\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.pdb
+D:\Development Area\Chat all1\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.pdb
+D:\Development Area\Chat all1\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe.manifest
+D:\Development Area\Chat all1\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.application
+D:\Development Area\Chat all1\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.exe
+D:\Development Area\Chat all1\chat all\ChatServiceHost\bin\Debug\ChatServiceHost.pdb
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csprojResolveAssemblyReference.cache
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.baml
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHostWindow.g.cs
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\App.g.cs
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost_MarkupCompile.cache
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.g.resources
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.Properties.Resources.resources
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.csproj.GenerateResource.Cache
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.exe.manifest
+D:\Development Area\Chat all1\chat all\ChatServiceHost\obj\x86\Debug\ChatServiceHost.application
